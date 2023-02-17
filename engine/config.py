@@ -22,6 +22,6 @@ class Config:
 
     SCREEN = pygame.display.set_mode((WIN_WIDTH, WIN_HEIGHT))
 
-    FPS = 100
+    FPS = 20
 
-    CORRECTION_ITTR = 10
+    CORRECTION_ITTR = 3
